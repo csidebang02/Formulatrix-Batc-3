@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\bin\Debug\net7.0\Football.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\bin\Debug\net7.0\Football.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\bin\Debug\net7.0\Football.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\bin\Debug\net7.0\Football.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\bin\Debug\net7.0\Football.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\refint\Football.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\Football.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Day 3\Football\obj\Debug\net7.0\ref\Football.dll

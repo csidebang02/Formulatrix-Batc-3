@@ -5,9 +5,9 @@ class Program
 	static void Main()
 
 	{
-		Player ronaldo = new Player("Ronaldo", 50, "Stricker", "RM");
+		Player ronaldo = new Player("Ronaldo", 38, "Centre Forward", "Portugal");
 		ronaldo.info();
-		Player messi = new Player("Messi",49,"Wing","Barca");
+		Player messi = new Player("Messi",36,"Right Winger","Argentina");
 		messi.info();
 	
 		ronaldo.AddScore(10);
