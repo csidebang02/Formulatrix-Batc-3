@@ -8,8 +8,9 @@ public class Football
 	{
 		_player1 = player1;
 		_player2 = player2;
+		_win = "";
 	}
-	
+
 	public void CountScore()
 	{
 		if (_player1._score.Equals(_player2._score))
