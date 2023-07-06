@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\bin\Debug\net7.0\Dynamic.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\bin\Debug\net7.0\Dynamic.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\bin\Debug\net7.0\Dynamic.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\bin\Debug\net7.0\Dynamic.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\bin\Debug\net7.0\Dynamic.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\refint\Dynamic.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\Dynamic.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\Dynamic\obj\Debug\net7.0\ref\Dynamic.dll

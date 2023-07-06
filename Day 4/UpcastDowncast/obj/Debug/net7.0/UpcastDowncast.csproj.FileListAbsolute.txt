@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\bin\Debug\net7.0\UpcastDowncast.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\bin\Debug\net7.0\UpcastDowncast.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\bin\Debug\net7.0\UpcastDowncast.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\bin\Debug\net7.0\UpcastDowncast.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\bin\Debug\net7.0\UpcastDowncast.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\refint\UpcastDowncast.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\UpcastDowncast.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\UpcastDowncast\obj\Debug\net7.0\ref\UpcastDowncast.dll
