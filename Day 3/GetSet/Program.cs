@@ -27,7 +27,7 @@
 		{
 			Motorcycle myMotorcycle = new Motorcycle("Kawasaki", "Ninja", 2014, 79000000);
 
-			Console.WriteLine($"My motorcycle is a {myMotorcycle.Year} {myMotorcycle.Brand} {myMotorcycle.Model} in {myMotorcycle.Pric} pric.");
+			Console.WriteLine($"My motorcycle is a {myMotorcycle.Year} {myMotorcycle.Brand} {myMotorcycle.Tipe} in {myMotorcycle.Pric} pric.");
 			myMotorcycle.Start();
 		}
 	}
