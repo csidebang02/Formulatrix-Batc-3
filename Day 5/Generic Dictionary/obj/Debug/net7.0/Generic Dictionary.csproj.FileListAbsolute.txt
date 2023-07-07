@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\bin\Debug\net7.0\Generic Dictionary.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\bin\Debug\net7.0\Generic Dictionary.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\bin\Debug\net7.0\Generic Dictionary.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\bin\Debug\net7.0\Generic Dictionary.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\bin\Debug\net7.0\Generic Dictionary.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\refint\Generic Dictionary.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\Generic Dictionary.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 5\Generic Dictionary\obj\Debug\net7.0\ref\Generic Dictionary.dll
