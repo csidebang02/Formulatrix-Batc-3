@@ -1,24 +1,30 @@
 ﻿class Program
 {
-	static void Main(string[] args)
-	{
-		Console.Write("Masukkan angka: ");
-		int n = Convert.ToInt32(Console.ReadLine());
-		Console.WriteLine ("n =" + n);
+    static void Main()
+    {
+        Console.Write("Masukkan angka: ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("n =" + n);
 
-		for (int i = 0; i <= n; i++)
-		{
-			if (i == 0)
-				Console.WriteLine(i);
-			else if(i % 3 == 0 && i % 5 == 0)
-				Console.WriteLine("foobar ");
-			else if (i % 3 == 0)
-				Console.WriteLine("foo ");
-			else if (i % 5 == 0)
-				Console.WriteLine("bar ");
-			else
-				Console.WriteLine(i);
-		}
-		Console.ReadLine();
-	}
+        string[] arr = new string[n + 1]; // Membuat array dengan ukuran n+1
+
+        for (int i = 0; i <= n; i++)
+        {
+            if (i == 0)
+                arr[i] = i.ToString();
+            else if (i % 3 == 0 && i % 5 == 0)
+                arr[i] = "foobar";
+            else if (i % 3 == 0)
+                arr[i] = "foo";
+            else if (i % 5 == 0)
+                arr[i] = "bar";
+            else
+                arr[i] = i.ToString();
+        }
+
+        string result = string.Join(", ", arr); // Menggabungkan elemen array menjadi satu string dengan pemisah koma
+
+        Console.WriteLine(result);
+        // Console.ReadLine();
+    }
 }
