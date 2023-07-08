@@ -4,12 +4,12 @@ namespace B_Interface_Motor;
 public class BajaSuspensi : ISuspensi
 {
 	public string suspensiLinkage;
-	public BajaSuspensi(string suspensiLinkage)
+	public BajaSuspensi(string suspensiLinkageInput)
 	{
-		this.suspensiLinkage = suspensiLinkage;
+		this.suspensiLinkage = suspensiLinkageInput;
 	}
 	public void suspensiOn()
 	{
-		Console.WriteLine("Suspensi On");
+		Console.WriteLine("Baja Suspensi On ");
 	}
 }

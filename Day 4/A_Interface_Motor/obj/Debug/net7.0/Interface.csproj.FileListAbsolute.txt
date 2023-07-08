@@ -3,3 +3,18 @@ C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\A_Interface
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.AssemblyInfo.cs
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\bin\Debug\net7.0\Interface.exe
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\bin\Debug\net7.0\Interface.deps.json
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\bin\Debug\net7.0\Interface.runtimeconfig.json
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\bin\Debug\net7.0\Interface.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\bin\Debug\net7.0\Interface.pdb
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\refint\Interface.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.pdb
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 4\A_Interface_Motor\obj\Debug\net7.0\ref\Interface.dll

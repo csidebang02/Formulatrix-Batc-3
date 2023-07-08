@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
+    "C:\\Users\\Christian Sidebang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
-      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\obj\\",
+      "projectPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
+      "packagesPath": "C:\\Users\\Christian Sidebang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Christian Sidebang\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

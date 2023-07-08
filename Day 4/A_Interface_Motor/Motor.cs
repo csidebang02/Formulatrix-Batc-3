@@ -13,4 +13,11 @@ public class Motor
 		this.lamp = lamp;
 		this.suspensi = suspensi;
 	}
+	public void onMotor ()
+	
+	{
+		this.enginestater.EngineOn();
+		this.suspensi.suspensiOn();
+		this.lamp.LedLampOn();
+	}
 }
