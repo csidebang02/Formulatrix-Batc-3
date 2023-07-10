@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\bin\Debug\net7.0\ref,out,in,enum.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\bin\Debug\net7.0\ref,out,in,enum.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\bin\Debug\net7.0\ref,out,in,enum.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\bin\Debug\net7.0\ref,out,in,enum.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\bin\Debug\net7.0\ref,out,in,enum.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\refint\ref,out,in,enum.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref,out,in,enum.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 6\ref,out,in,enum\obj\Debug\net7.0\ref\ref,out,in,enum.dll
