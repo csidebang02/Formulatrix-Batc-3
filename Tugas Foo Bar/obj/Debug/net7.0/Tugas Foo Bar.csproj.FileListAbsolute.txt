@@ -43,3 +43,18 @@ C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.pdb
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.genruntimeconfig.cache
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Day 3\Tugas Foo Bar\obj\Debug\net7.0\ref\Tugas Foo Bar.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\bin\Debug\net7.0\Tugas Foo Bar.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\bin\Debug\net7.0\Tugas Foo Bar.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\bin\Debug\net7.0\Tugas Foo Bar.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\bin\Debug\net7.0\Tugas Foo Bar.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\bin\Debug\net7.0\Tugas Foo Bar.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\refint\Tugas Foo Bar.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\Tugas Foo Bar.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Tugas Foo Bar\obj\Debug\net7.0\ref\Tugas Foo Bar.dll
