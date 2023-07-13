@@ -1,0 +1,5 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.csproj.CoreCompileInputs.cache
