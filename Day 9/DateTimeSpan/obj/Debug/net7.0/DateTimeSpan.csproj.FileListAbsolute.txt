@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\bin\Debug\net7.0\DateTimeSpan.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\bin\Debug\net7.0\DateTimeSpan.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\bin\Debug\net7.0\DateTimeSpan.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\bin\Debug\net7.0\DateTimeSpan.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\bin\Debug\net7.0\DateTimeSpan.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\refint\DateTimeSpan.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\DateTimeSpan.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 9\DateTimeSpan\obj\Debug\net7.0\ref\DateTimeSpan.dll

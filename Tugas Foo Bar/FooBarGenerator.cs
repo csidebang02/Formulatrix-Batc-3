@@ -1,24 +1,35 @@
 public class FooBarGenerator
 {
+    private Dictionary<int, string> rules;
+
+    public FooBarGenerator(Dictionary<int, string> rules)
+    {
+        this.rules = rules;
+    }
+
     public string GenerateFooBar(int n)
     {
-        string[] arr = new string[n + 1]; // Membuat array dengan ukuran n+1
+        string result = "";
 
         for (int i = 0; i <= n; i++)
         {
-            if (i == 0)
-                arr[i] = i.ToString();
-            else if (i % 3 == 0 && i % 5 == 0)
-                arr[i] = "foobar";
-            else if (i % 3 == 0)
-                arr[i] = "foo";
-            else if (i % 5 == 0)
-                arr[i] = "bar";
-            else
-                arr[i] = i.ToString();
+            string output = CheckNumber(i);
+
+            result += output + ", ";
         }
 
-        string result = string.Join(", ", arr); // Menggabungkan elemen array menjadi satu string dengan pemisah koma
-        return result;
+        return result.TrimEnd(',');
+    }
+
+    public string CheckNumber(int number)
+    {
+        if (rules.ContainsKey(number))
+        {
+            return rules[number];
+        }
+        else
+        {
+            return number.ToString();
+        }
     }
 }
