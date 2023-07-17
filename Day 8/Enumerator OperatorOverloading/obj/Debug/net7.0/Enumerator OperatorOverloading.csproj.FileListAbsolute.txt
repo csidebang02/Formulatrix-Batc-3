@@ -3,3 +3,18 @@ C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfoInputs.cache
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfo.cs
 C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\bin\Debug\net7.0\Enumerator OperatorOverloading.exe
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\bin\Debug\net7.0\Enumerator OperatorOverloading.deps.json
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\bin\Debug\net7.0\Enumerator OperatorOverloading.runtimeconfig.json
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\bin\Debug\net7.0\Enumerator OperatorOverloading.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\bin\Debug\net7.0\Enumerator OperatorOverloading.pdb
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.AssemblyInfo.cs
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\refint\Enumerator OperatorOverloading.dll
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.pdb
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\Enumerator OperatorOverloading.genruntimeconfig.cache
+C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Formulatrix-Batc-3\Formulatrix-Batc-3\Day 8\Enumerator OperatorOverloading\obj\Debug\net7.0\ref\Enumerator OperatorOverloading.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Enumerator OperatorOverloading/1.0.0": {
+        "runtime": {
+          "Enumerator OperatorOverloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enumerator OperatorOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

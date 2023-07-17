@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj": {}
+    "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj": {
+    "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
+        "projectPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\Interface.csproj",
         "packagesPath": "C:\\Users\\Christian Sidebang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\obj\\",
+        "outputPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Day 4\\A_Interface_Motor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Sidebang\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

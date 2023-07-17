@@ -8,8 +8,8 @@ class Program
 		DinamaoEngine motorEngine = new DinamaoEngine("Kawasaki");
 		LedLamp motorLamp = new LedLamp("Rayton");
 		
-		AlumuniumSuspensi alumuniumSuspensi = new AlumuniumSuspensi("");
-		XenonLamp xenonLamp = new XenonLamp("");
+		AlumuniumSuspensi alumuniumSuspensi = new AlumuniumSuspensi("Baja");
+		XenonLamp xenonLamp = new XenonLamp("Pillips");
 		ElectricEngine electricEngine = new ElectricEngine("");
 		
 		Motor motor = new Motor(electricEngine, xenonLamp, alumuniumSuspensi);
