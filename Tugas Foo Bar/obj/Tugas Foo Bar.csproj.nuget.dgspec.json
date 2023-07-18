@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj": {}
+    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj": {
+    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj",
         "projectName": "Tugas Foo Bar",
-        "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj",
+        "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\Tugas Foo Bar.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\obj\\",
+        "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Tugas Foo Bar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Masukkan angka: ");
         int n = Convert.ToInt32(Console.ReadLine());
@@ -33,9 +33,15 @@
                 {
                     case 1:
                         AddCondition(rules);
+                        generator = new FooBarGenerator(rules);
+                        result = generator.GenerateFooBar(n);
+                        Console.WriteLine(result);
                         break;
                     case 2:
                         RemoveCondition(rules);
+                        generator = new FooBarGenerator(rules);
+                        result = generator.GenerateFooBar(n);
+                        Console.WriteLine(result);
                         break;
                     case 3:
                         ListAllCondition(rules);
@@ -75,7 +81,6 @@
                 rules.Add(number, keyword);
             }
         }
-
         return rules;
     }
 
