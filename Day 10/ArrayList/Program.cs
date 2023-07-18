@@ -1,4 +1,6 @@
-﻿class BengkelMotor
+﻿using System.Collections;
+
+class BengkelMotor
 {
     static void Main()
     {
@@ -12,9 +14,12 @@
 
         // Menampilkan daftar kendaraan
         Console.WriteLine("Daftar Kendaraan di Bengkel Motor:");
-        foreach (Motor motor in daftarKendaraan)
+        foreach (object obj in daftarKendaraan)
         {
-            Console.WriteLine("Merk: {0}, Model: {1}", motor.Merk, motor.Model);
+            if (obj is Motor motor)
+            {
+                Console.WriteLine("Merk: {0}, Model: {1}", motor.Merk, motor.Model);
+            }
         }
 
         // Menghapus kendaraan dari daftar
@@ -22,9 +27,12 @@
 
         // Menampilkan daftar kendaraan setelah penghapusan
         Console.WriteLine("\nDaftar Kendaraan setelah penghapusan:");
-        foreach (Motor motor in daftarKendaraan)
+        foreach (object obj in daftarKendaraan)
         {
-            Console.WriteLine("Merk: {0}, Model: {1}", motor.Merk, motor.Model);
+            if (obj is Motor motor)
+            {
+                Console.WriteLine("Merk: {0}, Model: {1}", motor.Merk, motor.Model);
+            }
         }
     }
 }

@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-class Program
+﻿class Program
 
 {
 	static int myInt = 2;
