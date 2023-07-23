@@ -1,37 +1,58 @@
 public class FooBarGenerator
 {
-private Dictionary<int, string> rules;
+    private Dictionary<int, string> rules;
 
-public FooBarGenerator(Dictionary <int, string> rules)
-{
-	this.rules = rules;
-}
+    public FooBarGenerator()
+    {
+        rules = new Dictionary<int, string>();
+    }
 
-public string GenerateFooBar(int n)
-{
-	string result = "";
+    public void AddCondition(int number, string keyword)
+    {
+        rules[number] = keyword;
+    }
 
-	for (int i = 0; i <= n; i++)
-	{
-		string output = "";
+    public bool RemoveCondition(int number)
+    {
+        return rules.Remove(number);
+    }
 
-		foreach (KeyValuePair<int, string> rule in rules)
-		{
-			if (i % rule.Key == 0)
-				output += rule.Value;
-		}
+    public List<string> ListAllConditions()
+    {
+        List<string> conditionsList = new List<string>();
+        foreach (var rule in rules)
+        {
+            conditionsList.Add($"{rule.Key} = {rule.Value}");
+        }
+        return conditionsList;
+    }
 
-		if (string.IsNullOrEmpty(output))
-			output = i.ToString();
+    public string GenerateFooBar(int n)
+    {
+        string result = "";
 
-		result += output + ", ";
-	}
-	return result.TrimEnd(',');
-}
-public string CheckNumber(int number)
+        for (int i = 0; i <= n; i++)
+        {
+            string output = "";
+
+            foreach (var rule in rules)
+            {
+                if (i % rule.Key == 0)
+                    output += rule.Value;
+            }
+
+            if (string.IsNullOrEmpty(output))
+                output = i.ToString();
+
+            result += output + ", ";
+        }
+        return result.TrimEnd(',');
+    }
+
+    public string CheckSingleNumber(int number)
     {
         string keyword = "";
-        foreach (KeyValuePair<int, string> rule in rules)
+        foreach (var rule in rules)
         {
             if (number % rule.Key == 0)
             {
