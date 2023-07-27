@@ -6,14 +6,14 @@
         int n = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("n = " + n);
 
+        FooBarGenerator generator = new FooBarGenerator();
+
         Console.Write("Masukkan aturan (contoh: 3 = foo, 5 = bar): ");
         string ruleInput = Console.ReadLine();
 
-        Dictionary<int, string> rules = ParseRules(ruleInput);
+        ParseRules(generator, ruleInput);
 
-        FooBarGenerator generator = new FooBarGenerator(rules);
         string result = generator.GenerateFooBar(n);
-
         Console.WriteLine(result);
 
         Console.WriteLine("Pilih aksi:");
@@ -32,19 +32,17 @@
                 switch (choice)
                 {
                     case 1:
-                        AddCondition(rules);
-                        generator = new FooBarGenerator(rules);
+                        AddCondition(generator);
                         result = generator.GenerateFooBar(n);
                         Console.WriteLine(result);
                         break;
                     case 2:
-                        RemoveCondition(rules);
-                        generator = new FooBarGenerator(rules);
+                        RemoveCondition(generator);
                         result = generator.GenerateFooBar(n);
                         Console.WriteLine(result);
                         break;
                     case 3:
-                        ListAllCondition(rules);
+                        ListAllCondition(generator);
                         break;
                     case 4:
                         CheckSingleNumber(generator);
@@ -64,10 +62,8 @@
         }
     }
 
-    static Dictionary<int, string> ParseRules(string input)
+    static void ParseRules(FooBarGenerator generator, string input)
     {
-        Dictionary<int, string> rules = new Dictionary<int, string>();
-
         string[] rulePairs = input.Split(',');
 
         foreach (string rulePair in rulePairs)
@@ -78,13 +74,12 @@
             {
                 int number = Convert.ToInt32(parts[0].Trim());
                 string keyword = parts[1].Trim();
-                rules.Add(number, keyword);
+                generator.AddCondition(number, keyword);
             }
         }
-        return rules;
     }
 
-    static void AddCondition(Dictionary<int, string> rules)
+    static void AddCondition(FooBarGenerator generator)
     {
         Console.Write("Masukkan angka baru: ");
         int number = Convert.ToInt32(Console.ReadLine());
@@ -92,17 +87,17 @@
         Console.Write("Masukkan kata kunci baru: ");
         string keyword = Console.ReadLine();
 
-        rules[number] = keyword;
+        generator.AddCondition(number, keyword);
 
         Console.WriteLine("Kondisi berhasil ditambahkan.");
     }
 
-    static void RemoveCondition(Dictionary<int, string> rules)
+    static void RemoveCondition(FooBarGenerator generator)
     {
         Console.Write("Masukkan angka yang akan dihapus kondisinya: ");
         int number = Convert.ToInt32(Console.ReadLine());
 
-        if (rules.Remove(number))
+        if (generator.RemoveCondition(number))
         {
             Console.WriteLine("Kondisi berhasil dihapus.");
         }
@@ -112,13 +107,13 @@
         }
     }
 
-    static void ListAllCondition(Dictionary<int, string> rules)
+    static void ListAllCondition(FooBarGenerator generator)
     {
         Console.WriteLine("Daftar Kondisi:");
-
-        foreach (KeyValuePair<int, string> rule in rules)
+        List<string> conditionsList = generator.ListAllConditions();
+        foreach (string condition in conditionsList)
         {
-            Console.WriteLine($"{rule.Key} = {rule.Value}");
+            Console.WriteLine(condition);
         }
     }
 
@@ -127,7 +122,7 @@
         Console.Write("Masukkan angka yang akan diperiksa: ");
         int number = Convert.ToInt32(Console.ReadLine());
 
-        string keyword = generator.CheckNumber(number);
+        string keyword = generator.CheckSingleNumber(number);
 
         Console.WriteLine($"Kata kunci untuk angka {number}: {keyword}");
     }
