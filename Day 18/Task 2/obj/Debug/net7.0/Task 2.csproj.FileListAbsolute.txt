@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\bin\Debug\net7.0\Task 2.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\bin\Debug\net7.0\Task 2.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\bin\Debug\net7.0\Task 2.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\bin\Debug\net7.0\Task 2.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\bin\Debug\net7.0\Task 2.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\refint\Task 2.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\Task 2.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\Task 2\obj\Debug\net7.0\ref\Task 2.dll

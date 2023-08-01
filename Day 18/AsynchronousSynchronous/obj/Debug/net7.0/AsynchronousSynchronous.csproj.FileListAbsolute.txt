@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\bin\Debug\net7.0\AsynchronousSynchronous.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\bin\Debug\net7.0\AsynchronousSynchronous.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\bin\Debug\net7.0\AsynchronousSynchronous.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\bin\Debug\net7.0\AsynchronousSynchronous.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\bin\Debug\net7.0\AsynchronousSynchronous.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\refint\AsynchronousSynchronous.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\AsynchronousSynchronous.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\AsynchronousSynchronous\obj\Debug\net7.0\ref\AsynchronousSynchronous.dll

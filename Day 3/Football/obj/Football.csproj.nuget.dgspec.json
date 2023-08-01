@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Day 3\\Football\\Football.csproj": {}
+    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 3\\Football\\Football.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Day 3\\Football\\Football.csproj": {
+    "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 3\\Football\\Football.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Day 3\\Football\\Football.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 3\\Football\\Football.csproj",
         "projectName": "Football",
-        "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Day 3\\Football\\Football.csproj",
+        "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 3\\Football\\Football.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Day 3\\Football\\obj\\",
+        "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 3\\Football\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

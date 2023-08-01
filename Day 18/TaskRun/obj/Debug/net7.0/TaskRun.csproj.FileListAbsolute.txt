@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\bin\Debug\net7.0\TaskRun.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\bin\Debug\net7.0\TaskRun.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\bin\Debug\net7.0\TaskRun.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\bin\Debug\net7.0\TaskRun.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\bin\Debug\net7.0\TaskRun.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\refint\TaskRun.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\TaskRun.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\TaskRun\obj\Debug\net7.0\ref\TaskRun.dll

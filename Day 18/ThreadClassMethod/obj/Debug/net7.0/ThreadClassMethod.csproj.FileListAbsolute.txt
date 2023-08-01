@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\bin\Debug\net7.0\ThreadClassMethod.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\bin\Debug\net7.0\ThreadClassMethod.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\bin\Debug\net7.0\ThreadClassMethod.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\bin\Debug\net7.0\ThreadClassMethod.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\bin\Debug\net7.0\ThreadClassMethod.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\refint\ThreadClassMethod.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ThreadClassMethod.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 18\ThreadClassMethod\obj\Debug\net7.0\ref\ThreadClassMethod.dll

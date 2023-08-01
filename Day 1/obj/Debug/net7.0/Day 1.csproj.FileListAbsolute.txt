@@ -13,3 +13,18 @@ C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Day 1\obj\Debug\
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Day 1\obj\Debug\net7.0\Day 1.pdb
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Day 1\obj\Debug\net7.0\Day 1.genruntimeconfig.cache
 C:\Users\Christian Sidebang\OneDrive\Desktop\Formulatrix Batc 3\Day 1\obj\Debug\net7.0\ref\Day 1.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\bin\Debug\net7.0\Day 1.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\bin\Debug\net7.0\Day 1.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\bin\Debug\net7.0\Day 1.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\bin\Debug\net7.0\Day 1.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\bin\Debug\net7.0\Day 1.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\refint\Day 1.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\Day 1.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 1\obj\Debug\net7.0\ref\Day 1.dll

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Christian Sidebang\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Day 1\\Day 1.csproj",
+      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 1\\Day 1.csproj",
       "projectName": "Day 1",
-      "projectPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Day 1\\Day 1.csproj",
-      "packagesPath": "C:\\Users\\Christian Sidebang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian Sidebang\\OneDrive\\Desktop\\Formulatrix Batc 3\\Day 1\\obj\\",
+      "projectPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 1\\Day 1.csproj",
+      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Christian Sidebang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
