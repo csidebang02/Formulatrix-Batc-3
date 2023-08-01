@@ -23,6 +23,6 @@
 	public void Dispose()
 	
 	{
-		Dispose(true)
+		Dispose(true);
 	}
 }
