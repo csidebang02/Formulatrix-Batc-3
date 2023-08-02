@@ -6,7 +6,7 @@ class Program
 {
     static SemaphoreSlim semaphore = new SemaphoreSlim(1, 2); // Maksimal 2 task dapat mengakses bersamaan
 
-    static async Task Main(string[] args)
+    static async Task Main()
     {
         var tasks = new Task[5];
 
@@ -31,7 +31,7 @@ class Program
         // Simulasi bekerja
         await Task.Delay(10);
 
-        Console.WriteLine($"Task {id} exiting semaphore.");
+        Console.WriteLine($"Task {id} exit.");
         semaphore.Release(); // Melepaskan semaphore setelah selesai
     }
 }
