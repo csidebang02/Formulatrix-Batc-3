@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\bin\Debug\net7.0\Directory.exe
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\bin\Debug\net7.0\Directory.deps.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\bin\Debug\net7.0\Directory.runtimeconfig.json
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\bin\Debug\net7.0\Directory.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\bin\Debug\net7.0\Directory.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\refint\Directory.dll
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.pdb
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\Directory.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3\Formulatrix-Batc-3-1\Day 20\Directory\obj\Debug\net7.0\ref\Directory.dll
