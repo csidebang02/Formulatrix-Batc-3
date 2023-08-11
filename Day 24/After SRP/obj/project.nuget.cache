@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zw9vth1/mVm8Uf0EYePvek5hL2TjfyOs1LX56+K3AGGTY4y4x9RlXtZl1Fg03fp5GSE6dVK3bkf7Zt+2VV6AYw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\Day 24\\After SRP\\After SRP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Batch 3\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Batch 3\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

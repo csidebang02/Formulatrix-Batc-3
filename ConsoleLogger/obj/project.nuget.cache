@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3PUH/scCiG3gt4q/zSBEAD+BvBnlv3+97Wws7iRTLl4LpvvwVFmILR4+stYpOFjqSLreGNHZcblvcHbyb6BW7w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Batch 3\\Desktop\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3\\Formulatrix-Batc-3-1\\ConsoleLogger\\ConsoleLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
